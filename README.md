@@ -6,11 +6,11 @@ Tutorial Node, Express, and Typescript application which exposes a simple restau
 
 ## Development
 
-### .env
+### Environment Variables
 
 The `PORT` environment variable is required, which defines the port the server will run on.
 
-### Running the server
+### Running the Server
 
 To run the server, use the `dev` script defined in `package.json`:
 ```bash
